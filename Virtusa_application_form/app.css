@@ -1,0 +1,32 @@
+.form-group
+
+{
+
+	display: block;
+
+	margin-left: 30%;
+
+}
+
+.error
+
+{
+
+   border: 1px solid red;
+
+}
+
+
+
+.forms-group
+
+{
+
+	justify-content: space-evenly;
+
+    align-self: auto;
+    clear: both;
+    width: 30%;
+    float: inherit;
+
+}
